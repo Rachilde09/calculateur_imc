@@ -2,7 +2,7 @@
 
 ## Description du Projet
 
-Ce projet est une application web simple développée avec Streamlit qui permet de calculer l'Indice de Masse Corporelle (IMC) d'une personne. L'IMC est une mesure qui évalue la corpulence d'une personne en fonction de sa taille et de son poids, et indique si elle se situe dans une catégorie de poids normale, en insuffisance pondérale, en surpoids ou en obésité.
+Ce projet est une application web simple développée avec Streamlit qui permet de calculer l'Indice de Masse Corporelle (IMC) d'une personne. L'IMC est une mesure qui évalue la corpulence d'une personne en fonction de sa taille et de son poids, et indique si elle se situe dans une catégorie de poids normale, en insuffisance pondérale, en surpoids ou en obésité..
 
 ## Fonctionnalités
 
